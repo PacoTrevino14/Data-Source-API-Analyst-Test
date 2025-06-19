@@ -1,0 +1,3 @@
+⚠️ Security Note:
+For privacy and good practice reasons, the GitHub token is not included directly in the notebook.
+To run it, you will need to enter your personal token when starting the Colab session.
